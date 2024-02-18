@@ -1,0 +1,21 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Logo208" filename="logo.svg" scaleX="104" scaleY="104"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo218" filename="logo.svg" scaleX="109" scaleY="109"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo240" filename="logo.svg" scaleX="120" scaleY="120"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo260" filename="logo.svg" scaleX="130" scaleY="130"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo280" filename="logo.svg" scaleX="140" scaleY="140"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo360" filename="logo.svg" scaleX="180" scaleY="180"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo390" filename="logo.svg" scaleX="195" scaleY="195"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo416" filename="logo.svg" scaleX="208" scaleY="208"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo454" filename="logo.svg" scaleX="227" scaleY="227"><palette><color>FF0000</color></palette></bitmap>
+    <bitmap id="Logo208w" filename="logo.svg" scaleX="104" scaleY="104"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo218w" filename="logo.svg" scaleX="109" scaleY="109"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo240w" filename="logo.svg" scaleX="120" scaleY="120"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo260w" filename="logo.svg" scaleX="130" scaleY="130"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo280w" filename="logo.svg" scaleX="140" scaleY="140"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo360w" filename="logo.svg" scaleX="180" scaleY="180"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo390w" filename="logo.svg" scaleX="195" scaleY="195"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo416w" filename="logo.svg" scaleX="208" scaleY="208"><palette><color>FFFFFF</color></palette></bitmap>
+    <bitmap id="Logo454w" filename="logo.svg" scaleX="227" scaleY="227"><palette><color>FFFFFF</color></palette></bitmap>
+</drawables>

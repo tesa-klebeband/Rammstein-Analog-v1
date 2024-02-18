@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+	<g fill="#000000" transform="translate(10,10)"><!--380px x 380px-->
+		<path d="m 10,200 v80 h90 v-82.5 h8.5 l30,82.5 h88 l-28,-77 v-103 h-188.5 v80" fill="none" stroke="#000000" stroke-width="20" stroke-dasharray="none"/>
+		<path d="M90,70 v-70 h90 v20 h-70 v50 h-20 Z"/>
+		<path d="M200,0 h90 v90 h90 v90 h-20 v-70 h-90 v-90 h-70 v-20 Z"/>
+		<path d="M360,200 h20 v90 h-90 v90 h-90 v-20 h70 v-90 h90 v-70 Z"/>
+		<path d="M180,360 v20 h-90 v-70 h20 v50 h70 Z"/>
+	</g>
+</svg>

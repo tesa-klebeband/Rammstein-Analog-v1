@@ -1,0 +1,10 @@
+<properties>
+    <property id="LogoColor" type="number">0xFF0000</property>
+    <property id="HourColor" type="number">0xFFFFFF</property>
+    <property id="MinuteColor" type="number">0xFFFFFF</property>
+    <property id="TopFieldColor" type="number">0xFFFFFF</property>
+    <property id="TopField" type="number">3</property>
+    <property id="BottomFieldColor" type="number">0xFFFFFF</property>
+    <property id="BottomField" type="number">0</property>
+    <property id="HourNumsColor" type="number">0xFFFFFF</property>
+</properties>
